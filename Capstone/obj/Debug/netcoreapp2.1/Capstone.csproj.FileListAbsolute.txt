@@ -1,0 +1,11 @@
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\BBest\git\c-module-1-capstone-team-4\19_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.pdb
